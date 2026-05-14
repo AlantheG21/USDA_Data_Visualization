@@ -53,11 +53,11 @@ Across all 7,793 foods, the correlation between total fat and calorie content is
 
 **2. Sodium is the clearest marker of ultra-processed foods** *(VIZ-3, VIZ-8)*
 
-The top 20 highest-sodium foods (VIZ-8) are almost entirely cured meats, seasoning mixes, and condiments — some exceeding 5,000 mg of sodium per 100 grams, more than twice the recommended daily limit in a single portion. The category-level box plot (VIZ-3) confirms this pattern: sausages and luncheon meats, soups, and fast foods have sodium levels five to ten times higher than whole-food categories. Sodium is not just a health concern — it is a reliable fingerprint for industrial food processing.
+The top 20 highest-sodium foods (VIZ-8) are dominated by dry soup and bouillon powders, leavening agents (baking soda and baking powder), dry seasoning and gravy mixes, and pure salt — all exceeding 5,000 mg per 100 grams. Cured meats are elevated in sodium but do not appear in the top 20 because their water content dilutes concentration; these top entries are powders or near-pure compounds. The category-level box plot (VIZ-3) confirms the broader pattern: sausages and luncheon meats, soups, and fast foods have sodium levels five to ten times higher than whole-food categories. Sodium is not just a health concern — it is a reliable fingerprint for industrial food processing.
 
-**3. Sugar and fiber are nutritional opposites** *(VIZ-7)*
+**3. Sugar and fiber separate sweets from vegetables** *(VIZ-7)*
 
-The scatter plot of total sugars versus fiber (VIZ-7) reveals a clean two-quadrant split: sweets occupy the high-sugar, near-zero-fiber corner while vegetables occupy the high-fiber, low-sugar corner. These two groups rarely overlap. This pattern matters because fiber and sugar have opposing effects on how quickly the body processes carbohydrates — foods high in both would be unusual, and foods low in both (most animal proteins) represent a completely different nutritional profile.
+The scatter plot of total sugars versus fiber (VIZ-7) shows that sweets span a wide range of sugar values but remain consistently near zero fiber, while most vegetables cluster in the low-sugar, low-fiber region — with a subset of higher-fiber vegetables appearing as outliers along the fiber axis. The clearest separation between the two categories is on fiber: no sweet food reaches meaningful fiber levels, while the highest-fiber items in the chart are exclusively vegetables. This pattern matters because fiber and sugar have opposing effects on how quickly the body processes carbohydrates — and the near-complete absence of fiber in sweets, regardless of their sugar content, is a reliable nutritional signature of ultra-processed foods.
 
 **4. Animal-based categories dominate protein content** *(VIZ-2, EDA-11)*
 
